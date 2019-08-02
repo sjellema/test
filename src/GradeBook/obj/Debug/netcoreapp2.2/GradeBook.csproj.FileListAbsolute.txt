@@ -1,0 +1,11 @@
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+c:\OneDrive\Personal\CLOUD_PROGRAMMING_PROJECTS\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
